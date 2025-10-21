@@ -33,11 +33,6 @@ YOU NEED AN EOS R ou RP ROM DUMP:
 #### FIR files
 
 - here : https://eoscard.pel.hu/
-- or using these links:
-  - https://gdlp01.c-wss.com/gds/8/0400006288/02/eosr-v180-win.zip
-  - https://gdlp01.c-wss.com/gds/2/0400006292/01/eosrp-v160-win.zip
-  - https://gdlp01.c-wss.com/gds/6/0400006776/01/v103-sl3-250d-200d2-x10-win.zip 
-  - https://gdlp01.c-wss.com/gds/9/0400009889/01/eosr6-v190-win.zip 
 
 
 ### d8_oracle.py
