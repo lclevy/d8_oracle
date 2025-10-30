@@ -11,6 +11,7 @@ Bonus: a tool to verify ECDSA signatures from Digic8 and Digic10 FIR files (EOS 
 ## Slides
 
 - hacklu2025_slides/ directory contains presentation at Hack.lu 2025 conference (https://2025.hack.lu/)
+- video is here : https://www.youtube.com/watch?v=PQAKfl0uACI
 
 ## Python scripts
 
